@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation (Originally Hyundai Genesis)"
+    start_year: 2008
+    end_year: 2016
+    description: "The first-generation G80 began life as the Hyundai Genesis sedan before the Genesis luxury brand was established. Built on Hyundai's newly developed rear-wheel drive platform, it represented the company's first serious attempt to enter the luxury market. The exterior featured conservative styling influenced by European luxury sedans, while the interior offered genuine luxury appointments and technology at a value price point. Initially available with a 3.8L V6 or a 4.6L V8 (later a 5.0L V8), it emphasized smooth performance and comfort over sporty handling. A significant refresh in 2012 updated the styling and technology features. This generation established the foundation for what would become the Genesis brand, demonstrating Hyundai's ability to create a credible luxury vehicle."
+
+  - name: "Second Generation (First as Genesis G80)"
+    start_year: 2016
+    end_year: 2020
+    description: "The second-generation model launched initially as the Hyundai Genesis but was soon rebranded as the Genesis G80 when the luxury division was established as a separate brand. It featured more distinctive styling with a hexagonal grille and a more cohesive luxury design language. Available with a 3.8L V6, 3.3L twin-turbocharged V6, or 5.0L V8 engine, and in rear-wheel or all-wheel drive configurations, it offered a range of performance options. The interior saw significant improvements in materials, design, and technology, offering features comparable to established luxury brands. This generation helped establish Genesis as a standalone luxury brand with its own identity, competing with the likes of Lexus, BMW, and Mercedes-Benz while maintaining a value proposition."
+
+  - name: "Third Generation"
+    start_year: 2020
+    end_year: null
+    description: "The current G80 represents a complete redesign that fully embraces Genesis's unique design language, featuring the brand's signature crest grille, quad headlights and taillights, and a dramatic parabolic character line along the side profile. Built on a new rear-wheel drive platform shared with the GV80 SUV, it offers improved dynamics, technology, and refinement. Engine options were streamlined to a 2.5L turbocharged four-cylinder and a 3.5L twin-turbocharged V6, both paired with an eight-speed automatic transmission. The interior showcases a minimalist luxury approach with a focus on materials and craftsmanship, featuring a 14.5-inch widescreen infotainment display and a digital instrument cluster. Technology advanced significantly with features like Remote Smart Parking Assist, Highway Driving Assist II, and a sophisticated augmented reality navigation system. An all-electric Electrified G80 variant was introduced in 2021, maintaining similar styling but with a fully electric powertrain offering approximately 282 miles of range. This generation has established the G80 as a distinctive luxury sedan with its own clear identity rather than following established competitors, helping solidify Genesis as a genuine luxury contender."
