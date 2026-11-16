@@ -1,0 +1,30 @@
+command_id: 770.778.22BC03
+test_cases:
+- expected_values:
+    G80_BELT_DRIVER: 0
+    G80_BELT_PASSENGER: 0
+    G80_DEFOG_SW: 0
+    G80_DOOR_FL: 0
+    G80_DOOR_FR: 0
+    G80_DOOR_RL: 0
+    G80_DOOR_RR: 0
+    G80_HANDBRAKE: 0
+    G80_HOOD: 0
+    G80_TRUNK: 0
+  response: |-
+    778100B62BC03FD9E38
+    778216200601800AAAA
+- expected_values:
+    G80_BELT_DRIVER: 0
+    G80_BELT_PASSENGER: 0
+    G80_DEFOG_SW: 0
+    G80_DOOR_FL: 0
+    G80_DOOR_FR: 0
+    G80_DOOR_RL: 0
+    G80_DOOR_RR: 0
+    G80_HANDBRAKE: 1
+    G80_HOOD: 0
+    G80_TRUNK: 0
+  response: |-
+    778100B62BC03FD9E38
+    77821620A000000AAAA
