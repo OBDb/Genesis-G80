@@ -1,0 +1,8 @@
+command_id: 7D4.7DC.220101
+test_cases:
+- expected_values:
+    G80_MDPS_MOTOR_CURRENT: 3
+  response: |-
+    7DC1013620101737004
+    7DC2176F56000032500
+    7DC22000303010101AA
