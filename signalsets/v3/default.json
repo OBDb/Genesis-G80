@@ -278,7 +278,7 @@
     {"id": "G80_TIMING_ADVANCE_2",    "path": "Engine", "fmt": {"bix": 40,  "len": 8, "max": 95.25, "min": -96, "mul": 0.75,           "sign": true, "unit": "degrees"    }, "name": "Timing advance #2"},
     {"id": "G80_TIMING_ADVANCE_3",    "path": "Engine", "fmt": {"bix": 48,  "len": 8, "max": 95.25, "min": -96, "mul": 0.75,           "sign": true, "unit": "degrees"    }, "name": "Timing advance #3"},
     {"id": "G80_TIMING_ADVANCE_4",    "path": "Engine", "fmt": {"bix": 56,  "len": 8, "max": 95.25, "min": -96, "mul": 0.75,           "sign": true, "unit": "degrees"    }, "name": "Timing advance #4"},
-    {"id": "G80_BAROMETRIC_PRESSURE", "path": "Engine", "fmt": {"bix": 312, "len": 8, "max": 127.5,                          "div": 2,               "unit": "kilopascal" }, "name": "Barometric pressure"}
+    {"id": "G80_BAROMETRIC_PRESSURE", "path": "Engine", "fmt": {"bix": 312, "len": 8, "max": 127.5,                          "div": 2,               "unit": "kilopascal" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "14"}, "freq": 0.25,
   "signals": [
@@ -383,7 +383,7 @@
     {"id": "G80_BATTERY_V",                "path": "Battery", "fmt": {"bix": 32,  "len": 8, "max": 17.37, "mul": 17.37, "div": 255,                                "unit": "volts"   }, "name": "Battery voltage"},
     {"id": "G80_BATTERY_V_AFTER_IGNITION", "path": "Battery", "fmt": {"bix": 40,  "len": 8, "max": 17.37, "mul": 17.37, "div": 255,                                "unit": "volts"   }, "name": "Battery voltage after ignition"},
     {"id": "G80_BATTERY_SOC",              "path": "Battery", "fmt": {"bix": 48,  "len": 8, "max": 255,                                            "nullmax": 255, "unit": "percent" }, "name": "12V battery state of charge"},
-    {"id": "G80_IAT",                      "path": "Engine",  "fmt": {"bix": 264, "len": 8, "max": 143,                 "div": 1.3333, "add": -48,                 "unit": "celsius" }, "name": "Intake air temperature"},
+    {"id": "G80_IAT",                      "path": "Engine",  "fmt": {"bix": 264, "len": 8, "max": 143,                 "div": 1.3333, "add": -48,                 "unit": "celsius" }, "name": "Intake air temperature",         "suggestedMetric": "intakeAirTemperature"},
     {"id": "G80_EOT",                      "path": "Engine",  "fmt": {"bix": 272, "len": 8, "max": 143,                 "div": 1.3333, "add": -48,                 "unit": "celsius" }, "name": "Engine oil temperature",         "suggestedMetric": "engineOilTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "E002"}, "freq": 5,
