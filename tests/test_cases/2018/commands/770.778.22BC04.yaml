@@ -1,0 +1,12 @@
+command_id: 770.778.22BC04
+test_cases:
+- expected_values:
+    G80_BELT_RL: 1
+    G80_BELT_RM: 1
+    G80_BELT_RR: 1
+    G80_LOCK_FL: 0
+    G80_LOCK_FR: 0
+    G80_REVERSE_GEAR: 0
+  response: |-
+    778100B62BC04002074
+    778216E00000E42AAAA
