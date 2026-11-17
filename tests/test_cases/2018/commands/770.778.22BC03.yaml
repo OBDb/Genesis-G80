@@ -30,6 +30,20 @@ test_cases:
     77821E200602C00AAAA
 - expected_values:
     G80_BELT_DRIVER: 1
+    G80_BELT_PASSENGER: 0
+    G80_DEFOG_SW: 0
+    G80_DOOR_FL: 0
+    G80_DOOR_FR: 0
+    G80_DOOR_RL: 0
+    G80_DOOR_RR: 0
+    G80_HANDBRAKE: 0
+    G80_HOOD: 0
+    G80_TRUNK: 0
+  response: |-
+    778100B62BC03ADEE74
+    77821E200622C00AAAA
+- expected_values:
+    G80_BELT_DRIVER: 1
     G80_BELT_PASSENGER: 1
     G80_DEFOG_SW: 0
     G80_DOOR_FL: 0

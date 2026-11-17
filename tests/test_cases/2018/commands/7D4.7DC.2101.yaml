@@ -67,6 +67,12 @@ test_cases:
     7DC210003030007FFDC
     7DC2200030000000000
 - expected_values:
+    G80_STEER_ANGLE_V3: 22
+  response: |-
+    7DC100F61017F7E7F1A
+    7DC211A0303F6BA00DC
+    7DC22F83A0000000000
+- expected_values:
     G80_STEER_ANGLE_V3: 3.3
   response: |-
     7DC100F6101807E7F00
