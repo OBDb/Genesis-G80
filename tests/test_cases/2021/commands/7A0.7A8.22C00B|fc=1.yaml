@@ -2,7 +2,7 @@ command_id: 7A0.7A8.22C00B|fc=1
 test_cases:
 - expected_values:
     G80_TP_FL: 38.2
-    G80_TP_RL: 0.2
+    G80_TP_RL: 36.6
     G80_TT_FL: 30
     G80_TT_FR: 134
   response: |-

@@ -1,6 +1,19 @@
 command_id: 7D6.7DE.2106
 test_cases:
 - expected_values:
+    G80_FL_TP: 2.52348
+    G80_FL_TT: 21
+    G80_FR_TP: 2.50969
+    G80_FR_TT: 23
+    G80_RL_TP: 2.52348
+    G80_RL_TT: 21
+    G80_RR_TP: 2.53727
+    G80_RR_TT: 22
+  response: |-
+    7DE10126106B7470100
+    7DE21B6490100B74701
+    7DE2200B84801003535
+- expected_values:
     G80_FL_TP: 2.62001
     G80_FL_TT: 28
     G80_FR_TP: 2.57864
