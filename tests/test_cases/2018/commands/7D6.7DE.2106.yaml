@@ -5,6 +5,19 @@ test_cases:
     G80_FL_TT: -50
     G80_FR_TP: 0
     G80_FR_TT: -50
+    G80_RL_TP: 0
+    G80_RL_TT: -50
+    G80_RR_TP: 0
+    G80_RR_TT: -50
+  response: |-
+    7DE1012610600000100
+    7DE2100000100000001
+    7DE2200000001003535
+- expected_values:
+    G80_FL_TP: 0
+    G80_FL_TT: -50
+    G80_FR_TP: 0
+    G80_FR_TT: -50
     G80_RL_TP: 2.42696
     G80_RL_TT: 15
     G80_RR_TP: 2.42696
