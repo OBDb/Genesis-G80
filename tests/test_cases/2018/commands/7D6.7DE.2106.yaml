@@ -27,6 +27,19 @@ test_cases:
     7DE21B6490100B74701
     7DE2200B84801003535
 - expected_values:
+    G80_FL_TP: 2.60622
+    G80_FL_TT: 29
+    G80_FR_TP: 2.59243
+    G80_FR_TT: 32
+    G80_RL_TP: 2.56485
+    G80_RL_TT: 27
+    G80_RR_TP: 2.59243
+    G80_RR_TT: 29
+  response: |-
+    7DE10126106BD4F0100
+    7DE21BC520100BA4D01
+    7DE2200BC4F01003535
+- expected_values:
     G80_FL_TP: 2.62001
     G80_FL_TT: 28
     G80_FR_TP: 2.57864
